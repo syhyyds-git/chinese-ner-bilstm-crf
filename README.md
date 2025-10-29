@@ -8,6 +8,9 @@
 这里面有两个文件
 train_data.data,test_data.data
 分别为训练集和测试集，验证集可以在训练集里切割
+由于中文预训练词向量文件太大，给出链接：
+通过网盘分享的文件：data.rar
+链接: https://pan.baidu.com/s/1NbKlp6_uZQhL86x9gqlDVw 提取码: 28xg 。
 
 ###2.run_model文件
 这里面包含所有代码，每个代码块都有标识，主要有以下几个代码块
